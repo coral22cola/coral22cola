@@ -1,4 +1,4 @@
-## Hi there 👋
+## readme script of hyun woo Song 👋
 
 <!--
 **coral22cola/coral22cola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
